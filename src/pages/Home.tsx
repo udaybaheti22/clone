@@ -38,13 +38,13 @@ export default function Home() {
               </div>
             </div>
             <div className="w-11 h-11 rounded-full bg-gradient-to-br from-amber-300 to-amber-500 ring-2 ring-white/30 flex items-center justify-center text-white font-semibold text-sm">
-              UB
+              PS
             </div>
           </div>
 
           {/* Welcome */}
           <div className="mt-8 relative z-10">
-            <h1 className="text-2xl font-bold leading-tight">Welcome, Uday Baheti!</h1>
+            <h1 className="text-2xl font-bold leading-tight">Welcome, Pawani Shukla!</h1>
             <p className="mt-2 text-sm text-white/80 leading-relaxed max-w-[22rem]">
               DigiLocker 'Issued Documents' are at par with original documents as per IT ACT,
             </p>
